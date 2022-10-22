@@ -72,7 +72,7 @@ public class TravelHomePage
 
     public String getTitle()
     {
-        System.out.println("Hello this is new version from Core Framework !!!");
+        System.out.println("Hello roni , this is new version from Core Framework !!!");
         return driver.getTitle();
     }
 
